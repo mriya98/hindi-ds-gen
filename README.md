@@ -1,4 +1,4 @@
-# hindi Dataset Generation
+# Hindi Dataset Generation
 Hindi Characters dataset generation using Google Fonts. The python helps to create your own dataset by using different fonts
 and Unicodes of characters. 
 

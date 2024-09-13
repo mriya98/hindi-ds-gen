@@ -34,8 +34,8 @@ def generate_dataset_from_fonts():
     unicode_ranges = {
         "devanagari": (0x0900, 0x097F),  # Devanagari (Hindi, Marathi, etc.)
         # Comment the ranges below if punctuations and other symbols are not required
-        "math_symbols": (0x2200, 0x22FF),
-        "currency_symbols": (0x20A0, 0x20CF),
+        #"math_symbols": (0x2200, 0x22FF),
+        #"currency_symbols": (0x20A0, 0x20CF),
         "punctuation": (0x2000, 0x206F),
     }
 
